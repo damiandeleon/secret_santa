@@ -60,6 +60,20 @@ function FamilyMemberList() {
       linkTitle: "Colin's Wishlist",
     },
     {
+      id: 10,
+      name: "Noah",
+      link: "https://amazon.com",
+      pic: noahGif,
+      linkTitle: "Noah's Wishlist",
+    },
+    {
+      id: 11,
+      name: "Lily",
+      link: "https://amazon.com",
+      pic: girlAnimeSanta,
+      linkTitle: "Lily's Wishlist",
+    },
+    {
       id: 7,
       name: "Lawson",
       link: "https://amazon.com",
@@ -79,20 +93,6 @@ function FamilyMemberList() {
       link: "https://amazon.com",
       pic: babychristmas,
       linkTitle: "Penny's Wishlist",
-    },
-    {
-      id: 10,
-      name: "Noah",
-      link: "https://amazon.com",
-      pic: noahGif,
-      linkTitle: "Noah's Wishlist",
-    },
-    {
-      id: 11,
-      name: "Lily",
-      link: "https://amazon.com",
-      pic: girlAnimeSanta,
-      linkTitle: "Lily's Wishlist",
     },
   ];
   return <ListCards list={giftListDetails} />;
