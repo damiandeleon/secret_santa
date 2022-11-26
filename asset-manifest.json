@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/secret_santa/static/css/main.ad546348.css",
+    "main.js": "/secret_santa/static/js/main.80ee5969.js",
+    "static/js/787.0dd6b35b.chunk.js": "/secret_santa/static/js/787.0dd6b35b.chunk.js",
+    "static/media/christmas_boy_gif.gif": "/secret_santa/static/media/christmas_boy_gif.284760485c8875d9bc22.gif",
+    "static/media/billGif.gif": "/secret_santa/static/media/billGif.259bc7ab46fa8dd553ca.gif",
+    "static/media/brooksGif.gif": "/secret_santa/static/media/brooksGif.fa297d900e44218a6f2a.gif",
+    "static/media/snowGif.gif": "/secret_santa/static/media/snowGif.e72cce02267ca6e81e63.gif",
+    "static/media/girlAnimeSanta.gif": "/secret_santa/static/media/girlAnimeSanta.6154c042a19a12beaed1.gif",
+    "static/media/damianGif.gif": "/secret_santa/static/media/damianGif.e264db85173d037195ca.gif",
+    "static/media/christmas-girl-santa-laugh.gif": "/secret_santa/static/media/christmas-girl-santa-laugh.a668d2cbe68cd56c84c2.gif",
+    "static/media/colingif.gif": "/secret_santa/static/media/colingif.ae945c257026c132d857.gif",
+    "static/media/christmas_girl_gif.gif": "/secret_santa/static/media/christmas_girl_gif.21a02f23a9e9f3445782.gif",
+    "static/media/ChristmasBackground.jpeg": "/secret_santa/static/media/ChristmasBackground.6e4830f7139dbc2e074f.jpeg",
+    "static/media/babychristmas.gif": "/secret_santa/static/media/babychristmas.b41a29c5956d3420306d.gif",
+    "static/media/lawsonGif.gif": "/secret_santa/static/media/lawsonGif.15de4596ec1c26698e08.gif",
+    "static/media/christmas_boy_pic.jpeg": "/secret_santa/static/media/christmas_boy_pic.3d40f65380c3018379c2.jpeg",
+    "static/media/noahGif.gif": "/secret_santa/static/media/noahGif.56dd9151221ba1964e5f.gif",
+    "index.html": "/secret_santa/index.html",
+    "main.ad546348.css.map": "/secret_santa/static/css/main.ad546348.css.map",
+    "main.80ee5969.js.map": "/secret_santa/static/js/main.80ee5969.js.map",
+    "787.0dd6b35b.chunk.js.map": "/secret_santa/static/js/787.0dd6b35b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad546348.css",
+    "static/js/main.80ee5969.js"
+  ]
+}
