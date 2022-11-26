@@ -2,7 +2,7 @@ import React from "react";
 import ListCards from "./ListCards";
 import boy from "../assets/christmas_boy_pic.jpeg";
 import billGif from "../assets/billGif.gif";
-import boygif from '../assets/christmas_boy_gif.gif';
+import boygif from "../assets/christmas_boy_gif.gif";
 import girlgif from "../assets/christmas_girl_gif.gif";
 import girlsanta from "../assets/christmas-girl-santa-laugh.gif";
 import babychristmas from "../assets/babychristmas.gif";
@@ -12,8 +12,6 @@ import brooksGif from "../assets/brooksGif.gif";
 import noahGif from "../assets/noahGif.gif";
 import lawsonGif from "../assets/lawsonGif.gif";
 import damianGif from "../assets/damianGif.gif";
-
-
 
 function FamilyMemberList() {
   const giftListDetails = [
@@ -27,7 +25,7 @@ function FamilyMemberList() {
     {
       id: 2,
       name: "Damian",
-      link: "https://amazon.com",
+      link: "https://smile.amazon.com/hz/wishlist/ls/2Z5UUDDUWS7AX",
       pic: damianGif,
       linkTitle: "Damian's Wishlist",
     },
