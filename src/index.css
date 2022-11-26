@@ -1,0 +1,34 @@
+body {
+background-image: url('./assets/ChristmasBackground.jpeg');
+background-attachment: fixed;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+#pageHeader{
+  background-image: url(./assets/snowGif.gif);
+  text-align: center;
+  color: rgb(228, 230, 234);
+  text-shadow: 0 0 5px #202f9f, 0 0 30px #209f29;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#cardPic {
+  min-height: 100px;
+  max-width: 200px;
+}
+
+#cardStyle {
+/* box-shadow: -1px -1px 168px -29px rgba(232, 20, 20, 0.85);
+  -webkit-box-shadow: -1px -1px 168px -29px rgba(232, 20, 20, 0.85);
+  -moz-box-shadow: -1px -1px 168px -29px rgba(232, 20, 20, 0.85); */
+  width: "15rem";
+  min-height: "13rem";
+  display: "inline-block";
+  padding: "5px";
+  margin-block: "1rem";
+}
