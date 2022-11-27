@@ -18,14 +18,14 @@ function FamilyMemberList() {
     {
       id: 1,
       name: "Martin",
-      link: "https://amazon.com",
+      link: "https://www.amazon.com/hz/wishlist/ls/3EBI9JMY30HCS?ref_=wl_share",
       pic: boygif,
       linkTitle: "Martin's Wishlist",
     },
     {
       id: 2,
       name: "Damian",
-      link: "https://smile.amazon.com/hz/wishlist/ls/2Z5UUDDUWS7AX",
+      link: "https://www.amazon.com/hz/wishlist/ls/2Z5UUDDUWS7AX?ref_=wl_share",
       pic: damianGif,
       linkTitle: "Damian's Wishlist",
     },
