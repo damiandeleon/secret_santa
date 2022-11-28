@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/secret_santa/static/css/main.ad546348.css",
-    "main.js": "/secret_santa/static/js/main.82e6b6f0.js",
+    "main.js": "/secret_santa/static/js/main.3cf76b1d.js",
     "static/js/787.0dd6b35b.chunk.js": "/secret_santa/static/js/787.0dd6b35b.chunk.js",
     "static/media/christmas_boy_gif.gif": "/secret_santa/static/media/christmas_boy_gif.284760485c8875d9bc22.gif",
     "static/media/billGif.gif": "/secret_santa/static/media/billGif.259bc7ab46fa8dd553ca.gif",
@@ -19,11 +19,11 @@
     "static/media/noahGif.gif": "/secret_santa/static/media/noahGif.56dd9151221ba1964e5f.gif",
     "index.html": "/secret_santa/index.html",
     "main.ad546348.css.map": "/secret_santa/static/css/main.ad546348.css.map",
-    "main.82e6b6f0.js.map": "/secret_santa/static/js/main.82e6b6f0.js.map",
+    "main.3cf76b1d.js.map": "/secret_santa/static/js/main.3cf76b1d.js.map",
     "787.0dd6b35b.chunk.js.map": "/secret_santa/static/js/787.0dd6b35b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad546348.css",
-    "static/js/main.82e6b6f0.js"
+    "static/js/main.3cf76b1d.js"
   ]
 }
