@@ -32,14 +32,14 @@ function FamilyMemberList() {
     {
       id: 3,
       name: "Melissa",
-      link: "https://amazon.com",
+      link: "https://www.amazon.com/hz/wishlist/ls/3FHY4NDTIOH8V?ref_=wl_share",
       pic: girlgif,
       linkTitle: "Melissa's Wishlist",
     },
     {
       id: 4,
       name: "Bill",
-      link: "https://amazon.com",
+      link: "https://www.amazon.com/hz/wishlist/ls/1E6AQLDQ27D4G?ref_=wl_share",
       pic: billGif,
       linkTitle: "Bill's Wishlist",
     },
@@ -60,7 +60,7 @@ function FamilyMemberList() {
     {
       id: 10,
       name: "Noah",
-      link: "https://amazon.com",
+      link: "https://www.amazon.com/hz/wishlist/ls/MXVIVKPH0PHJ?type=wishlist",
       pic: noahGif,
       linkTitle: "Noah's Wishlist",
     },
