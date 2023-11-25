@@ -1,17 +1,5 @@
 import React from "react";
 import ListCards from "./ListCards";
-import boy from "../assets/christmas_boy_pic.jpeg";
-import billGif from "../assets/billGif.gif";
-import boygif from "../assets/christmas_boy_gif.gif";
-import girlgif from "../assets/christmas_girl_gif.gif";
-import girlsanta from "../assets/christmas-girl-santa-laugh.gif";
-import babychristmas from "../assets/babychristmas.gif";
-import girlAnimeSanta from "../assets/girlAnimeSanta.gif";
-import colingif from "../assets/colingif.gif";
-import brooksGif from "../assets/brooksGif.gif";
-import noahGif from "../assets/noahGif.gif";
-import lawsonGif from "../assets/lawsonGif.gif";
-import damianGif from "../assets/damianGif.gif";
 
 function FamilyMemberList() {
   const giftListDetails = [
@@ -19,77 +7,70 @@ function FamilyMemberList() {
       id: 1,
       name: "Martin",
       link: "https://www.amazon.com/hz/wishlist/ls/3EBI9JMY30HCS?ref_=wl_share",
-      pic: boygif,
+      pic: "M",
       linkTitle: "Martin's Wishlist",
     },
     {
       id: 2,
-      name: "Damian",
-      link: "https://www.amazon.com/hz/wishlist/ls/2Z5UUDDUWS7AX?ref_=wl_share",
-      pic: damianGif,
-      linkTitle: "Damian's Wishlist",
-    },
-    {
-      id: 3,
       name: "Melissa",
-      link: "https://www.amazon.com/hz/wishlist/ls/3FHY4NDTIOH8V?ref_=wl_share",
-      pic: girlgif,
+      link: "https://www.amazon.com/hz/wishlist/ls/DC1N3LUJPII6?ref_=wl_share",
+      pic: "M",
       linkTitle: "Melissa's Wishlist",
     },
     {
-      id: 4,
-      name: "Bill",
-      link: "https://www.amazon.com/hz/wishlist/ls/1E6AQLDQ27D4G?ref_=wl_share",
-      pic: billGif,
-      linkTitle: "Bill's Wishlist",
+      id: 3,
+      name: "Damian",
+      link: "https://www.amazon.com/hz/wishlist/ls/2Z5UUDDUWS7AX?ref_=wl_share",
+      pic: "D",
+      linkTitle: "Damian's Wishlist",
     },
     {
-      id: 5,
+      id: 4,
       name: "Lauren",
       link: "https://www.amazon.com/hz/wishlist/ls/3AIK24Z6DHK6J?ref_=wl_share",
-      pic: girlsanta,
+      pic: "L",
       linkTitle: "Lauren's Wishlist",
     },
     {
-      id: 6,
+      id: 5,
       name: "Colin",
       link: "https://www.amazon.com/hz/wishlist/ls/DINY34X9YNW?ref_=wl_share",
-      pic: colingif,
+      pic: "C",
       linkTitle: "Colin's Wishlist",
     },
     {
-      id: 10,
+      id: 6,
       name: "Noah",
-      link: "https://www.amazon.com/hz/wishlist/ls/MXVIVKPH0PHJ?type=wishlist",
-      pic: noahGif,
+      link: "https://www.amazon.com/hz/wishlist/ls/2UWVX7RIMN6OY?ref_=wl_share",
+      pic: "N",
       linkTitle: "Noah's Wishlist",
     },
     {
-      id: 11,
-      name: "Lily",
-      link: "https://www.amazon.com/hz/wishlist/ls/129WDZ90U36TZ?type=wishlist",
-      pic: girlAnimeSanta,
-      linkTitle: "Lily's Wishlist",
-    },
-    {
       id: 7,
-      name: "Lawson",
-      link: "https://www.amazon.com/hz/wishlist/ls/15VKBLF9P9G8I?ref_=wl_share",
-      pic: lawsonGif,
-      linkTitle: "Lawson's Wishlist",
+      name: "Claire",
+      link: "https://www.amazon.com/hz/wishlist/ls/28Q2USBS8IU9H?ref_=wl_share",
+      pic: "C",
+      linkTitle: "Clarie's Wishlist",
     },
     {
       id: 8,
-      name: "Brooks",
-      link: "https://www.amazon.com/hz/wishlist/ls/MAL3VD5J9YIQ?ref_=wl_share",
-      pic: brooksGif,
-      linkTitle: "Brooks' Wishlist",
+      name: "Lawson",
+      link: "https://www.amazon.com/hz/wishlist/ls/15VKBLF9P9G8I?ref_=wl_share",
+      pic: "L",
+      linkTitle: "Lawson's Wishlist",
     },
     {
       id: 9,
+      name: "Brooks",
+      link: "https://www.amazon.com/hz/wishlist/ls/MAL3VD5J9YIQ?ref_=wl_share",
+      pic: "B",
+      linkTitle: "Brooks' Wishlist",
+    },
+    {
+      id: 10,
       name: "Penny",
       link: "https://www.amazon.com/hz/wishlist/ls/430HR16Q2DDQ?ref_=wl_share",
-      pic: babychristmas,
+      pic: "P",
       linkTitle: "Penny's Wishlist",
     },
   ];

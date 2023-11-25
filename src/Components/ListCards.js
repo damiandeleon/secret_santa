@@ -9,25 +9,35 @@ const ListCards = (props) => {
     <div>
       <Row className='g-4'>
         {details.map((item) => (
-          <Col key={item.id} style={{ textAlign: "center" }}>
+          <Col
+            key={item.id}
+            style={{
+              textAlign: "center",
+              display: "flex",
+              justifyContent: "space-around",
+            }}
+          >
             <Card
-              border='danger'
               style={{
                 boxShadow: "10px 10px 5px 0px rgba(0,0,0,0.75)",
-                width: "15rem",
-                minHeight: "13rem",
-                display: "inline-block",
-                padding: "5px",
-                marginBlock: "1rem",
+                minWidth: "10rem",
+                maxWidth: "10rem",
+                minHeight: "12rem",
+                maxHeight: "12rem",
+                psadding: "5px",
+                marginBlock: "0.5rem",
               }}
             >
-              <Card.Img
-                id='cardPic'
-                alt='Child holding a present'
-                src={item.pic}
-              />
               {/* <Card.ImgOverlay> */}
               <div>
+                <Card.Text
+                  style={{
+                    fontFamily: "'Foldit', sans-serif",
+                    fontSize: "70px",
+                  }}
+                >
+                  {item.pic}
+                </Card.Text>
                 <Card.Title>{item.name}</Card.Title>
                 <Card.Link href={item.link} target='blank'>
                   {item.linkTitle}
